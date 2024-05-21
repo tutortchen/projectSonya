@@ -1,0 +1,108 @@
+﻿<Window x:Class="projectSonya.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:projectSonya"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid x:Name="UIGrid" Margin="279,121,253,43">
+            <Button x:Name="BtnSort" Content="СОРТИРОВКА" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Height="47" Width="242" FontSize="24" Click="BtnSort_Click"/>
+            <Button x:Name="BtnSereach" Content="ПОИСК" HorizontalAlignment="Center" VerticalAlignment="Top" Height="47" Width="242" FontSize="24" Click="BtnSereach_Click" Margin="0,73,0,0"/>
+            <Button x:Name="BtnTool" Content="ИЗМЕНИТЬ/УДАЛИТЬ" HorizontalAlignment="Center" Margin="0,201,0,0" VerticalAlignment="Top" Height="46" Width="242" FontSize="20" Click="BtnTool_Click"/>
+            <Button x:Name="BtnAdd" Content="ДОБАВИТЬ" HorizontalAlignment="Center" Margin="0,135,0,0" VerticalAlignment="Top" Height="47" Width="242" FontSize="24" Click="BtnAdd_Click"/>
+        </Grid>
+
+        <Label Content="Учёт и контроль инвентаризации" HorizontalAlignment="Center" Margin="0,53,0,0" VerticalAlignment="Top" Height="68" Width="568" FontSize="36"/>
+        <Grid x:Name="SortGrid" Background="White" d:IsHidden="True">
+            <ComboBox x:Name="SortBox" HorizontalAlignment="Left" Margin="498,23,0,0" VerticalAlignment="Top" Width="275" RenderTransformOrigin="0.058,0.492" Height="41" SelectionChanged="SortBox_SelectionChanged" FontSize="20"/>
+            <ListBox x:Name="DataBox" Margin="0,86,0,0" FontSize="24"/>
+        </Grid>
+        <Grid x:Name="SereachGrid" Background="White" d:IsHidden="True">
+            <TextBox x:Name="SereachTxtBox" HorizontalAlignment="Center" Margin="0,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="415" Height="45" FontSize="18" KeyUp="SereachTxtBox_KeyUp"/>
+            <Label Content="ПОИСК" HorizontalAlignment="Center" Margin="0,24,0,0" VerticalAlignment="Top" FontSize="30"/>
+            <ListBox x:Name="ResultBox" Margin="0,155,0,0" FontSize="24"/>
+        </Grid>
+        <Grid x:Name="AddGrid" Background="White" d:IsHidden="True">
+            <TextBox x:Name="nameTxtBox" HorizontalAlignment="Left" Margin="311,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="419" Height="44" FontSize="20"/>
+            <TextBox x:Name="numberTxtBox" HorizontalAlignment="Left" Margin="311,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="419" Height="44" FontSize="20"/>
+            <TextBox x:Name="typeTxtBox" HorizontalAlignment="Left" Margin="311,233,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="419" Height="44" FontSize="20"/>
+            <TextBox x:Name="priceTxtBox" HorizontalAlignment="Left" Margin="311,294,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="419" Height="44" FontSize="20"/>
+            <TextBox x:Name="locationTxtBox" HorizontalAlignment="Left" Margin="311,355,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="419" Height="44" FontSize="20"/>
+            <Label Content="ФИО" HorizontalAlignment="Left" Margin="210,115,0,0" VerticalAlignment="Top" Height="44" Width="75" FontSize="30" RenderTransformOrigin="0.5,0.5">
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="-0.533"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="-0.586"/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+            </Label>
+            <Label Content="Инвентарный номер" HorizontalAlignment="Left" Margin="66,169,0,0" VerticalAlignment="Top" Height="52" Width="241" FontSize="24" RenderTransformOrigin="0.5,0.5">
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="-0.533"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="-0.586"/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+            </Label>
+            <Label Content="Тип оборудования" HorizontalAlignment="Left" Margin="83,231,0,0" VerticalAlignment="Top" Height="52" Width="215" FontSize="24" RenderTransformOrigin="0.5,0.5">
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="-0.533"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="-0.586"/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+            </Label>
+            <Label Content="Стоимость оборудования" HorizontalAlignment="Left" Margin="7,294,0,0" VerticalAlignment="Top" Height="52" Width="290" FontSize="24" RenderTransformOrigin="0.5,0.5">
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="-0.533"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="-0.586"/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+            </Label>
+            <Label Content="Место расположение" HorizontalAlignment="Left" Margin="51,355,0,0" VerticalAlignment="Top" Height="52" Width="290" FontSize="24" RenderTransformOrigin="0.5,0.5">
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="-0.533"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="-0.586"/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+            </Label>
+            <Button x:Name="BtnSave" Content="СОХРАНИТЬ" HorizontalAlignment="Left" Margin="550,26,0,0" VerticalAlignment="Top" Height="44" Width="180" FontSize="24" Click="BtnSave_Click"/>
+        </Grid>
+        <Grid x:Name="ToolsGrid" Background="White">
+            <ListBox x:Name="ToolDataBox" Margin="0,74,0,0" FontSize="20" MouseDoubleClick="ToolDataBox_MouseDoubleClick"/>
+            <Button x:Name="BtnEdit" Content="ИЗМЕНИТЬ" HorizontalAlignment="Left" Margin="604,21,0,0" VerticalAlignment="Top" Height="37" Width="152" FontSize="24" Click="BtnEdit_Click"/>
+            <Grid x:Name="EditGrid" Background="White">
+                <ListBox x:Name="EditListBox" Height="356" VerticalAlignment="Top" Margin="0,78,0,0" FontSize="20" MouseDoubleClick="EditListBox_MouseDoubleClick"/>
+                <Grid x:Name="EditFormGrid" Background="White">
+                    <TextBox x:Name="nameBox" HorizontalAlignment="Left" Margin="346,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="389" Height="41" FontSize="20"/>
+                    <TextBox x:Name="typeBox" HorizontalAlignment="Left" Margin="346,206,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="389" Height="41" FontSize="20"/>
+                    <TextBox x:Name="priceBox" HorizontalAlignment="Left" Margin="346,272,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="389" Height="41" FontSize="20"/>
+                    <TextBox x:Name="locationBox" HorizontalAlignment="Left" Margin="346,335,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="389" Height="41" FontSize="20"/>
+                    <TextBox x:Name="numberBox" HorizontalAlignment="Left" Margin="346,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="389" Height="41" FontSize="20"/>
+                    <Label Content="ФИО" HorizontalAlignment="Left" Margin="278,80,0,0" VerticalAlignment="Top" FontSize="24"/>
+                    <Label Content="НОМЕР" HorizontalAlignment="Left" Margin="249,145,0,0" VerticalAlignment="Top" FontSize="24"/>
+                    <Label Content="ТИП" HorizontalAlignment="Left" Margin="281,206,0,0" VerticalAlignment="Top" FontSize="24"/>
+                    <Label Content="ЦЕНА" HorizontalAlignment="Left" Margin="269,272,0,0" VerticalAlignment="Top" FontSize="24"/>
+                    <Label Content="ЛОКАЦИЯ" HorizontalAlignment="Left" Margin="218,335,0,0" VerticalAlignment="Top" FontSize="24"/>
+                    <Button x:Name="BtnSaveEdit" Content="СОХАНИТЬ" HorizontalAlignment="Left" Margin="40,347,0,0" VerticalAlignment="Top" Height="38" Width="143" FontSize="24" Click="BtnSaveEdit_Click"/>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Button x:Name="BtnExit" Content="ВЫХОД" HorizontalAlignment="Left" Margin="27,23,0,0" VerticalAlignment="Top" Height="42" Width="152" FontSize="24" Click="BtnExit_Click"/>
+
+    </Grid>
+</Window>
