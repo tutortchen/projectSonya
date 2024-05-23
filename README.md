@@ -27,7 +27,7 @@
 
 ![2](https://github.com/tutortchen/projectSonya/assets/116812199/427e6af3-8861-4cac-b9c0-c86e95c04511)
 
-![5]https://drive.google.com/file/d/1suxp4QfaR34L5SynVXY3qQa9QtEibxtR/view)
+![5](https://drive.google.com/file/d/1suxp4QfaR34L5SynVXY3qQa9QtEibxtR/view)
 </br> </br> </br>
 
 ## Отображение данных
