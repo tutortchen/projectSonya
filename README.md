@@ -31,22 +31,22 @@ https://drive.google.com/file/d/1suxp4QfaR34L5SynVXY3qQa9QtEibxtR/view
 https://drive.google.com/drive/folders/1IfEgyaaxbNYR23ROOsRZV7IH2cskXwu4
 </br> </br> </br>
 
-![Сортировка]([https://drive.google.com/file/d/1CJFFic5l359Ae61CZFpz3-PlCElVGIum/view))
-## Сортировка </br>
+## Сортировка
+https://drive.google.com/file/d/1CJFFic5l359Ae61CZFpz3-PlCElVGIum/view
 </br> </br> </br>
 
-![Поиск](https://drive.google.com/file/d/13AI5IkjNb-QPivvbVgxi7mOa355Dz94m/view)
-## Поиск </br>
+## Поиск
+https://drive.google.com/file/d/13AI5IkjNb-QPivvbVgxi7mOa355Dz94m/view
 </br> </br> </br>
 
-![Добавление](https://drive.google.com/file/d/1q37igLcnIvzZovU7XmC_r0IzQYqpNvpY/view)
-## Добавление </br>
+## Добавление
+https://drive.google.com/file/d/1q37igLcnIvzZovU7XmC_r0IzQYqpNvpY/view
 </br> </br> </br>
 
-![Удаление](https://drive.google.com/file/d/1YgminQ--cn6fhjDqyHs6YEfqdJi6J2Bq/view)
-## Удаление </br>
+## Удаление
+https://drive.google.com/file/d/1YgminQ--cn6fhjDqyHs6YEfqdJi6J2Bq/view
 </br> </br> </br>
 
-![Изменение](https://drive.google.com/file/d/1xj2Bl_HtWjJJD-Ta2ESW7yolFDS_chom/view)
-## Изменение </br>
+## Изменение
+https://drive.google.com/file/d/1xj2Bl_HtWjJJD-Ta2ESW7yolFDS_chom/view
 </br> </br> </br>
