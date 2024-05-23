@@ -28,7 +28,7 @@ https://drive.google.com/file/d/1suxp4QfaR34L5SynVXY3qQa9QtEibxtR/view
 </br> </br> </br>
 
 ## Отображение данных
-https://drive.google.com/drive/folders/1IfEgyaaxbNYR23ROOsRZV7IH2cskXwu4
+https://drive.google.com/file/d/1BcMhV0noYu7AKiJnEjbmjrDiCes0j1ee/view
 </br> </br> </br>
 
 ## Сортировка
