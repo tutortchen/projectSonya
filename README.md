@@ -23,9 +23,8 @@
 В базе данных имеется таблица «Info», в которой содержатся колонки id, name, number, type, price, location. Содержит информацию о темах. <br/>
 
 # Скриншоты приложения:
-![Главная страница]
-[https://drive.google.com/file/d/1suxp4QfaR34L5SynVXY3qQa9QtEibxtR/view)
 ## Главная страница
+[https://drive.google.com/file/d/1suxp4QfaR34L5SynVXY3qQa9QtEibxtR/view)
 </br> </br> </br>
 
 ![Отображение данных]([https://drive.google.com/file/d/1BcMhV0noYu7AKiJnEjbmjrDiCes0j1ee/view](https://drive.google.com/drive/folders/1IfEgyaaxbNYR23ROOsRZV7IH2cskXwu4))
