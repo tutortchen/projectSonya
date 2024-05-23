@@ -27,35 +27,43 @@
 
 ![2](https://github.com/tutortchen/projectSonya/assets/116812199/427e6af3-8861-4cac-b9c0-c86e95c04511)
 
-![5](https://drive.google.com/file/d/1suxp4QfaR34L5SynVXY3qQa9QtEibxtR/view)
+
 </br> </br> </br>
 
 ## Отображение данных
 
 ![3](https://github.com/tutortchen/projectSonya/assets/116812199/5f6495e2-dc24-4d09-b791-225e7ba9543c)
 
-https://drive.google.com/file/d/1BcMhV0noYu7AKiJnEjbmjrDiCes0j1ee/view
+
 </br> </br> </br>
 
 ## Сортировка
 
 ![4](https://github.com/tutortchen/projectSonya/assets/116812199/5fa824b3-8c10-49a3-9539-33c062122820)
 
-https://drive.google.com/file/d/1CJFFic5l359Ae61CZFpz3-PlCElVGIum/view
+
 </br> </br> </br>
 
 ## Поиск
-https://drive.google.com/file/d/13AI5IkjNb-QPivvbVgxi7mOa355Dz94m/view
+
+![5](https://github.com/tutortchen/projectSonya/assets/116812199/5ad36fdb-cc94-44c7-b1b0-28eaffe599b2)
+
 </br> </br> </br>
 
 ## Добавление
-https://drive.google.com/file/d/1q37igLcnIvzZovU7XmC_r0IzQYqpNvpY/view
+
+![6](https://github.com/tutortchen/projectSonya/assets/116812199/18e904f0-4a0c-48aa-b332-5b63baa0c4ef)
+
 </br> </br> </br>
 
 ## Удаление
-https://drive.google.com/file/d/1YgminQ--cn6fhjDqyHs6YEfqdJi6J2Bq/view
+
+![8](https://github.com/tutortchen/projectSonya/assets/116812199/ac0cf282-423f-4d6e-96fa-1f569dea04c1)
+
 </br> </br> </br>
 
 ## Изменение
-https://drive.google.com/file/d/1xj2Bl_HtWjJJD-Ta2ESW7yolFDS_chom/view
+
+![10](https://github.com/tutortchen/projectSonya/assets/116812199/c7e57880-8fd3-447c-9734-cd3da65a6488)
+
 </br> </br> </br>
