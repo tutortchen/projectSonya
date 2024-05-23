@@ -26,7 +26,6 @@
 ## Главная страница
 ![2](https://github.com/tutortchen/projectSonya/assets/116812199/427e6af3-8861-4cac-b9c0-c86e95c04511)
 </br> </br> </br>
-
 ## Отображение данных
 ![3](https://github.com/tutortchen/projectSonya/assets/116812199/5f6495e2-dc24-4d09-b791-225e7ba9543c)
 </br> </br> </br>
