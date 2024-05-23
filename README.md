@@ -24,6 +24,7 @@
 
 # Скриншоты приложения:
 ![Главная страница]([https://drive.google.com/file/d/1suxp4QfaR34L5SynVXY3qQa9QtEibxtR/view))
+[https://drive.google.com/file/d/1suxp4QfaR34L5SynVXY3qQa9QtEibxtR/view)
 ## Главная страница
 </br> </br> </br>
 
