@@ -24,32 +24,26 @@
 
 # Скриншоты приложения:
 ## Главная страница
-
 ![2](https://github.com/tutortchen/projectSonya/assets/116812199/427e6af3-8861-4cac-b9c0-c86e95c04511)
 </br> </br> </br>
 
 ## Отображение данных
-
 ![3](https://github.com/tutortchen/projectSonya/assets/116812199/5f6495e2-dc24-4d09-b791-225e7ba9543c)
 </br> </br> </br>
 
 ## Сортировка
-
 ![4](https://github.com/tutortchen/projectSonya/assets/116812199/5fa824b3-8c10-49a3-9539-33c062122820)
 </br> </br> </br>
 
 ## Поиск
-
 ![5](https://github.com/tutortchen/projectSonya/assets/116812199/5ad36fdb-cc94-44c7-b1b0-28eaffe599b2)
 </br> </br> </br>
 
 ## Добавление
-
 ![6](https://github.com/tutortchen/projectSonya/assets/116812199/18e904f0-4a0c-48aa-b332-5b63baa0c4ef)
 </br> </br> </br>
 
 ## Удаление
-
 ![8](https://github.com/tutortchen/projectSonya/assets/116812199/ac0cf282-423f-4d6e-96fa-1f569dea04c1)
 </br> </br> </br>
 
